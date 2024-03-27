@@ -1,1 +1,1 @@
-
+###### 스플릿 된 10초 센서 pre-pretraining
